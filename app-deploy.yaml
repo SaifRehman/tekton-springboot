@@ -51,7 +51,7 @@ metadata:
     stack.appsody.dev/id: java-spring-boot2
     stack.appsody.dev/version: 0.3.24
   name: appsody-fruits-app
-  namespace: appsody-fruits-app-pro
+  namespace: kabanero
 spec:
   applicationImage: gandhicloud/appsody-fruits-app
   createKnativeService: false
